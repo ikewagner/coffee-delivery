@@ -5,10 +5,10 @@ import Hero from '@/components/hero'
 
 import { coffees } from '../../../data.json'
 
-export function Dashboard() {
+export function Home() {
   return (
     <>
-      <Helmet title="Coffee Delivery" />
+      <Helmet title="Home" />
       <Hero />
       <h2 className="p-5 text-2xl font-extrabold text-gray-700">
         Nossos cafés
