@@ -77,7 +77,7 @@
       "title": "Chocolate Quente",
       "description": "Bebida feita com chocolate dissolvido no leite quente e café",
       "tags": ["especial", "com leite"],
-      "price": 9.90,
+      "price": 19.90,
       "image": "/images/coffees/chocolate-quente.png"
     },
     {
@@ -85,7 +85,7 @@
       "title": "Cubano",
       "description": "Drink gelado de café expresso com rum, creme de leite e hortelã",
       "tags": ["especial", "alcoólico", "gelado"],
-      "price": 9.90,
+      "price": 29.90,
       "image": "/images/coffees/cubano.png"
     },
     {
@@ -93,7 +93,7 @@
       "title": "Havaiano",
       "description": "Bebida adocicada preparada com café e leite de coco",
       "tags": ["especial"],
-      "price": 9.90,
+      "price": 19.90,
       "image": "/images/coffees/havaiano.png"
     },
     {
@@ -101,7 +101,7 @@
       "title": "Árabe",
       "description": "Bebida preparada com grãos de café árabe e especiarias",
       "tags": ["especial"],
-      "price": 9.90,
+      "price": 19.90,
       "image": "/images/coffees/arabe.png"
     },
     {
@@ -109,7 +109,7 @@
       "title": "Irlandês",
       "description": "Bebida a base de café, uísque irlandês, açúcar e chantilly",
       "tags": ["especial", "alcoólico"],
-      "price": 9.90,
+      "price": 19.90,
       "image": "/images/coffees/irlandes.png"
     }
   ]

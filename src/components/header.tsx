@@ -14,7 +14,7 @@ export function Header() {
             <img
               src="/logo.svg"
               alt="Coffee Delivery Logo"
-              className="h-10 w-[84.95px]"
+              className="h-auto w-auto"
             ></img>
           </NavLink>
         </nav>
